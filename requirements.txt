@@ -56,5 +56,7 @@ watchdog==4.0.0
 wheel==0.43.0
 XlsxWriter==3.2.0
 zipp==3.17.0
-Tensorflow~=2.13.0 & keras~=2.13.0
-torch~=2.1.0 & keras~=3.0
+Tensorflow~=2.13.0 
+keras~=2.13.0
+torch~=2.1.0 
+keras~=3.0
