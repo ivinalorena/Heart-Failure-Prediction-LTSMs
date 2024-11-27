@@ -43,7 +43,7 @@ O dataset utilizado é o **Heart Failure Clinical Records Dataset**, disponível
 ## Como Utilizar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/heart-failure-prediction-lstm.git
+   git clone https://github.com/ivinalorena/heart-failure-prediction-lstm.git
    cd heart-failure-prediction-lstm
    ```  
 2. Certifique-se de instalar as dependências listadas no arquivo `requirements.txt`.  
